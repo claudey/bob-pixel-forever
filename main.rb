@@ -1,4 +1,5 @@
-# get today's date
+require 'date'
+# todays_image = 'https://bpf.bspot.space/archive/' + todays_date.toString
 
 # image = File.open("./castle.jpg", 'r')
 # if image.exist?
