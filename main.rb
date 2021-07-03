@@ -1,6 +1,12 @@
 # get today's date
 
-# format the date
+# image = File.open("./castle.jpg", 'r')
+# if image.exist?
+#     send_tweet image
+#     image.close
+# else
+#     # send DM that image reading failed.
+# end
 
 def get_and_parse_todays_date
     todays_date = Date.today
