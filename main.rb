@@ -2,7 +2,10 @@
 
 # format the date
 
-# retrieve image or else send email
+def get_and_parse_todays_date
+    todays_date = Date.today
+    todays_date.to_s
+end
 
 # make request to twitter
 
