@@ -28,3 +28,5 @@ def post_send_checks
 end
 
 # if you can get a twitter link
+
+get_and_parse_todays_date
